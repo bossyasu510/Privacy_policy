@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head><meta charset="UTF-8"><title>利用規約</title></head>
 <body>
   <h1>利用規約</h1>
   <p>最終更新日：2025-07-06</p>
